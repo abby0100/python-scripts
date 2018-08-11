@@ -1,0 +1,10 @@
+#!/usr/bin/python
+
+import time
+print
+print time.ctime(time.time())
+print
+
+# hello world
+print 'hello world!'
+
